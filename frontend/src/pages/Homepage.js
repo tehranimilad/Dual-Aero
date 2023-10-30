@@ -1,4 +1,3 @@
-import Badge from 'react-bootstrap/Badge';
 
 
 function Homepage() {
