@@ -1,5 +1,5 @@
 .homepage-image {
-    background-image: url("https://images.seattletimes.com/wp-content/uploads/2023/06/06172023_transonic-illo_200022.jpg?d=1536x864");
+    background-image: url("https://www.rd.com/wp-content/uploads/2022/04/GettyImages-1140602972-e1651249657746.jpg?resize=1536%2C1026");
     height: 100vh;
     background-position: center;
     background-repeat: no-repeat;
@@ -10,5 +10,6 @@
 .slogan {
     font-family: 'Bebas Neue', sans-serif;
     font-size: 45px;
-    padding: 90px;
+    color: rgb(0, 0, 0);
+    padding: 70px;
 }
