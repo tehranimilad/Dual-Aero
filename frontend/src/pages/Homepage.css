@@ -8,10 +8,12 @@
 }
 
 .slogan {
+    font-family: 'Bebas Neue', sans-serif;
     color:white;
-    font-size: 25px;
+    font-size: 45px;
     text-align: left;
-    padding: 90px;
+    padding: 270px 0px 0px 40px;
     transform: translateY(20%);
-
+    max-width: 700px;
+    font-weight: 600;
 }
