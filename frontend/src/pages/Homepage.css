@@ -1,0 +1,16 @@
+.homepage-image {
+    background-image: url("https://images.seattletimes.com/wp-content/uploads/2023/06/06172023_transonic-illo_200022.jpg?d=1536x864");
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    max-height: 500px;
+}
+
+.slogan {
+    color:white;
+    font-size: 25px;
+    text-align: left;
+    top:50%;
+    width: 70%;
+}
