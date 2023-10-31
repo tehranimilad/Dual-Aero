@@ -11,6 +11,7 @@
     color:white;
     font-size: 25px;
     text-align: left;
-    top:50%;
-    width: 70%;
+    padding: 90px;
+    transform: translateY(20%);
+
 }
