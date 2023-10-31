@@ -6,16 +6,15 @@ import "./nav.css"
 function Navi() {
     return (
       <div>
-        <Navbar bg="light" data-bs-theme="light">
+        <Navbar bg="white" data-bs-theme="light">
             <Container>
             <Navbar.Brand href="#home">
-            <img
+            {/* <img
               src="https://i.pinimg.com/564x/ac/e1/8d/ace18d8f5957d6bc3706039c4b97c121.jpg"
               width="100"
               height="80"
-              className="d-inline-block align-top"
               alt="Aviation Business Bootstrap logo"
-            />
+            /> */}
           </Navbar.Brand>
                 <Navbar.Brand href="#home">Dual Aero</Navbar.Brand>
                     <Nav className="me-auto">

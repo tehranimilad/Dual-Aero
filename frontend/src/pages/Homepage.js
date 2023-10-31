@@ -10,8 +10,8 @@ function Homepage() {
         <p className="slogan"> Elevate Your Expectations, Trust Dual Aero.</p>
         <Container />
             <Row>
-                <div className="homepage-image">
-                    </div>
+                <div className="homepage-image" />
+                
                     <p className="slogan"> Our Services</p>
             </Row>
       </div>

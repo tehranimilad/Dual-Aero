@@ -1,4 +1,5 @@
-.navbar {
-    text-align: left;
-    color:blue;
-}
+.navbar > .container {
+    max-width: 100%;
+    margin: 0 auto;
+    padding: 0;
+  }
