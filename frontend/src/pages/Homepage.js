@@ -7,11 +7,12 @@ import "./Homepage.css"
 function Homepage() {
     return (
       <div className="App">
+        <p className="slogan"> Elevate Your Expectations, Trust Dual Aero.</p>
         <Container />
             <Row>
                 <div className="homepage-image">
-                <p className="slogan">Elevate Your Expectations, Trust Dual Aero.</p>
                     </div>
+                    <p className="slogan"> Our Services</p>
             </Row>
       </div>
     );

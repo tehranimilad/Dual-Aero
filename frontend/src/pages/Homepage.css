@@ -9,9 +9,8 @@
 
 .slogan {
     font-family: 'Bebas Neue', sans-serif;
-    color:white;
     font-size: 45px;
-    text-align: left;
-    padding: 330px 0px 0px 30px;
-    transform: translateY(20%);
+    padding: 50px;
+    /* text-align: left;
+    transform: translateY(20%); */
 }
