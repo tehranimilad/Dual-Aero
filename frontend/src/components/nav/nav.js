@@ -12,7 +12,7 @@ function Navi() {
             <img
               src="https://i.ibb.co/qdhw2cw/Logo-Solo.png"
               width="65"
-              height="45"
+              height="40"
               padding-left="20px"
               alt="Aviation Business Bootstrap logo"
             />

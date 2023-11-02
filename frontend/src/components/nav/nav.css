@@ -2,8 +2,11 @@
     max-width: 100%;
     margin: 0 auto;
     padding: 0;
-    /* border-bottom: 3px solid #2bb1f8; */
   }
+
+.navbar > .container a:hover {
+    color: #2bb1f8; /* Change to the desired hover color */
+}
 
 .nav-brand {
     font-family: 'Bebas Neue', sans-serif;
