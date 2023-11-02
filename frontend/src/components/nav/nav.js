@@ -10,13 +10,14 @@ function Navi() {
             <Container>
             <Navbar.Brand href="#home">
             <img
-              src="https://i.ibb.co/WW4Gx7W/Dual-Aero-Skinny.png"
-              width="70"
-              height="50"
+              src="https://i.ibb.co/qdhw2cw/Logo-Solo.png"
+              width="45"
+              height="25"
               padding-left="20px"
               alt="Aviation Business Bootstrap logo"
             />
           </Navbar.Brand>
+          <Navbar.Brand href="#home">Dual Aero</Navbar.Brand>
                     <Nav className="me-auto">
                         <Nav.Link href="#home">Home</Nav.Link>
                         <Nav.Link href="#about">About Us</Nav.Link>
