@@ -11,13 +11,13 @@ function Navi() {
             <Navbar.Brand href="#home">
             <img
               src="https://i.ibb.co/qdhw2cw/Logo-Solo.png"
-              width="45"
-              height="25"
+              width="65"
+              height="45"
               padding-left="20px"
               alt="Aviation Business Bootstrap logo"
             />
           </Navbar.Brand>
-          <Navbar.Brand href="#home">Dual Aero</Navbar.Brand>
+          <Navbar.Brand className="nav-brand" href="#home">Dual Aero</Navbar.Brand>
                     <Nav className="me-auto">
                         <Nav.Link href="#home">Home</Nav.Link>
                         <Nav.Link href="#about">About Us</Nav.Link>

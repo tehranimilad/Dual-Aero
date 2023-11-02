@@ -2,4 +2,11 @@
     max-width: 100%;
     margin: 0 auto;
     padding: 0;
+    /* border-bottom: 3px solid #2bb1f8; */
   }
+
+.nav-brand {
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 30px;
+    padding-top: 10px;
+}
