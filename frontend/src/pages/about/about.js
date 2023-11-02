@@ -23,11 +23,9 @@ function About() {
       <Card>
         <Card.Img className="pics" variant="top" src="https://prd-sc102-cdn.rtx.com/-/media/ca/product-assets/marketing/r/repair-services/repair-services-commercial-aviation-color.jpg?rev=11fa6394574340dd97b87f28b76002e4" />
         <Card.Body>
-          <Card.Title>Trustable Repairs</Card.Title>
+          <Card.Title>Reliability</Card.Title>
           <Card.Text>
-            This is a wider card with supporting text below as a natural lead-in
-            to additional content. This card has even longer content than the
-            first to show that equal height action.
+          Your Trusted Source for Reliable Aircraft Parts Approved by the FAA – Ensuring Safety and Performance.
           </Card.Text>
         </Card.Body>
       </Card>
