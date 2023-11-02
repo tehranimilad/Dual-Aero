@@ -3,6 +3,8 @@ import Container from 'react-bootstrap/Container';
 import Image from 'react-bootstrap/Image';
 import Row from 'react-bootstrap/Row';
 import "./Homepage.css"
+import Card from 'react-bootstrap/Card';
+import CardGroup from 'react-bootstrap/CardGroup';
 
 function Homepage() {
     return (
@@ -13,8 +15,6 @@ function Homepage() {
         <Container />
             <Row>
                 <div className="homepage-image" />
-                
-                    <p className="slogan"> Our Services</p>
             </Row>
       </div>
     );

@@ -5,8 +5,8 @@
     background-repeat: no-repeat;
     background-size: cover;
     max-height: 500px;
-    border-top: 5px solid #50c2ff;
-    border-bottom: 5px solid #50c2ff;
+    border-top: 3px solid #000000;
+    border-bottom: 3px solid #000000;
 }
 
 .slogan {
@@ -14,4 +14,8 @@
     font-size: 45px;
     color: rgb(0, 0, 0);
     padding: 70px;
+}
+
+.pics{
+    max-height: 310px;
 }
