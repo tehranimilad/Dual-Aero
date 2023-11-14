@@ -9,12 +9,12 @@ function Homepage() {
       <div className="App">
         <div className="slogan-div">
         <p className="slogan"> Elevate Your Expectations, Trust Dual Aero.</p>
-        </div>
+      </div>
         <Container />
             <Row>
-                <div className="homepage-image" />
+              <div className="homepage-image" />
             </Row>
-      </div>
+              </div>
     );
   }
   

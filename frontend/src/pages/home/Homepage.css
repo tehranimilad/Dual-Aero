@@ -1,6 +1,6 @@
 .homepage-image {
     background-image: url("https://www.rd.com/wp-content/uploads/2022/04/GettyImages-1140602972-e1651249657746.jpg?resize=1536%2C1026");
-    height: 37vh;
+    height: 39vh;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -12,7 +12,7 @@
 .slogan {
     font-family: 'Bebas Neue', sans-serif;
     font-size: 45px;
-    color: rgb(0, 0, 0);
+    color: rgb(0, 0, 0);        
     padding: 60px;
 }
 

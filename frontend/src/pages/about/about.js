@@ -9,8 +9,8 @@ function About() {
     return (
       <div className="App">
         <Row> 
-                    <p className="slogan"> Our Services</p>
-                    <CardGroup>
+          <p className="slogan"> Our Services</p>
+          <CardGroup>
       <Card>
         <Card.Img className="pics" variant="top" src="https://assets.skiesmag.com/wp-content/uploads/2021/12/air_canada_787_yyz_parked_front_portrait-1.jpg" />
         <Card.Body>
