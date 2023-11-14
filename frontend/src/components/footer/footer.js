@@ -46,9 +46,6 @@ function Foot() {
                     Useful links
                   </h6>
                   <p>
-                    <a href="#!" class="text-reset">Pricing</a>
-                  </p>
-                  <p>
                     <a href="#!" class="text-reset">Settings</a>
                   </p>
                   <p>
