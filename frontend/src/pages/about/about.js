@@ -25,7 +25,7 @@ function About() {
         <Card.Body>
           <Card.Title>Reliability</Card.Title>
           <Card.Text>
-          Your Trusted Source for Reliable Aircraft Parts Approved by the FAA – Ensuring Safety and Performance.
+          Your Trusted Source for Reliable Aircraft Parts – Ensuring Safety and Performance.
           </Card.Text>
         </Card.Body>
       </Card>
