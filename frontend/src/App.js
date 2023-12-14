@@ -4,6 +4,7 @@ import About from './pages/about/about';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Navi from './components/nav/nav';
 import Foot from './components/footer/footer';
+import LogIn from './pages/login/login';
 
 function App() {
   return (
@@ -18,7 +19,11 @@ function App() {
       <div id="contact">
         <Foot/>
       </div>
+      <div>
+        <LogIn />
+      </div>
     </div>
+
   );
 }
 
