@@ -6,7 +6,7 @@ function PartsComponent() {
 
   useEffect(() => {
     // Fetch parts from the backend when the component mounts
-    fetch('http://localhost:3001/api/parts')
+    fetch('http://localhost:5000/api/parts')
       .then((response) => response.json())
       .then((data) => setParts(data))
       .catch((error) => console.error('Error fetching parts:', error));
@@ -14,14 +14,13 @@ function PartsComponent() {
 
   const handleAddPart = (e) => {
     e.preventDefault();
-  
+
     if (newPartName.trim() === '') {
       return;
     }
-  
-    console.log('Adding part:', newPartName);
-  
-    fetch('http://localhost:3001/api/parts', {
+
+    // Send a POST request to add a new part
+    fetch('http://localhost:5000/api/parts', {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',
@@ -29,12 +28,9 @@ function PartsComponent() {
       body: JSON.stringify({ name: newPartName }),
     })
       .then((response) => response.json())
-      .then((data) => {
-        console.log('Part added successfully:', data);
-        setParts([...parts, data]);
-      })
+      .then((data) => setParts([...parts, data]))
       .catch((error) => console.error('Error adding part:', error));
-  
+
     setNewPartName('');
   };
 
