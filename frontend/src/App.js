@@ -4,6 +4,7 @@ import About from './pages/about/about';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Navi from './components/nav/nav';
 import Foot from './components/footer/footer';
+import PartsComponent from './pages/parts/Parts';
 
 function App() {
   return (
@@ -14,6 +15,9 @@ function App() {
       </div>
       <div id="about">
       <About />
+      </div>
+      <div id="parts">
+        <PartsComponent />
       </div>
       <div id="contact">
         <Foot/>
