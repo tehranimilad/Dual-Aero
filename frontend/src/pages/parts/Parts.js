@@ -8,7 +8,6 @@ function PartsComponent() {
   const partsList = [
     { partNumber: "MS21069-3", partDescription: "Nut Plate" },
     { partNumber: "NAS333CPA4", partDescription: "Bolt" },
-    // ... (add the rest of your parts data)
   ];
 
   const filteredParts = partsList.filter(part =>
