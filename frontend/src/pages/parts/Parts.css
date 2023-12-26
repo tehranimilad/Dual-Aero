@@ -1,7 +1,7 @@
 .partsTable{
     border-radius: 5px;
     height: 244px;
-     padding: 0 10px 10px 10px; 
+    padding: 0 10px 10px 10px; 
     margin-top: 20px; 
     overflow: scroll;
 }
@@ -13,4 +13,9 @@
 
 .tableInfo {
     font-weight: normal;
+}
+
+.searchBar {
+    width: 25%;
+    z-index: 1000; 
 }
