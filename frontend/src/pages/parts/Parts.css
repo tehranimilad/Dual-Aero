@@ -1,3 +1,16 @@
-.partsTable {
-    
+.partsTable{
+    border-radius: 5px;
+    height: 244px;
+     padding: 0 10px 10px 10px; 
+    margin-top: 20px; 
+    overflow: scroll;
+}
+
+.tableHeader {
+    text-decoration: underline;
+    font-size: 20px
+}
+
+.tableInfo {
+    font-weight: normal;
 }
